@@ -11,6 +11,7 @@ Matplotlib - graphs
   * ![img_1.png](img_1.png)
   * axes: the list of graphs created by subplots function
 * fig=plt.figure(figsize=(7,2): to create the canvas, on it the graphs will be created
+  * figsize=(width, height)- in inches, along the row.
   * on the canvas, you create the graphs with add_axes:
     * fig.add_axes
 * lecture exersice in page 22
